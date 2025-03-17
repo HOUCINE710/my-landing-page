@@ -174,7 +174,7 @@ function App() {
           <div className="footer-section">
             <h3>Contact</h3>
             <p>Email: info@company.com</p>
-            <p>Phone: (555) 123-4567</p>
+            <p>Phone: </p>
             <div className="social-links">
               <a href="https://github.com/HOUCINE710" className="social-link"><Github size={20} /></a>
               <a href="https://github.com/HOUCINE710" className="social-link"><Twitter size={20} /></a>
